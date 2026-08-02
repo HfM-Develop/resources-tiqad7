@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HfM-Develop.github.io/resources-tiqad7/sitemap.xml
